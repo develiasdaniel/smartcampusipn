@@ -1,0 +1,2 @@
+# Codigo gitignore para evitar procesar los directorios de las dependencias
+node_modules
